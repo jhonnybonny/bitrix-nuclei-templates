@@ -3,7 +3,7 @@ This repository contains nuclei templates for scanning websites built on CMS Bit
 ## Usage
 1. Clone this repository to your local machine:
 ```bash
-git clone https://github.com/jhonnybonny/nuclei-templates-bitrix.git
+git clone https://github.com/jhonnybonny/bitrix-nuclei-templates.git
 cd nuclei-templates-bitrix
 ```
 2. Install nuclei if you haven't already. Refer to the [nuclei documentation](https://nuclei.projectdiscovery.io/docs/installation/) for installation instructions.
